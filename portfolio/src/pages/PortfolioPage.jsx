@@ -1,11 +1,11 @@
-import WorkIcon from '../components/WorkIcon';
+import Project from '../components/Project';
 
 export default function PortfolioPage() {
     return (
         <div>
             <h2>Portfolio</h2>
             <div>
-                <WorkIcon image="" title="" github="" deployed=""/>
+                <Project image="" title="" github="" deployed=""/>
             </div>
         </div>     
     );
