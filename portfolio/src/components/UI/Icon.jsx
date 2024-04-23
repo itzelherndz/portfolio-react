@@ -1,4 +1,4 @@
-export default function Icon(link,image, name){
+export default function Icon({link,image, name}){
     return (
         <a href={link}>
             <img src={image} alt={name}/>

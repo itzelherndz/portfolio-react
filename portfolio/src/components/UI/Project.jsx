@@ -1,4 +1,4 @@
-export default function Project(image, title, description, github, deployed) {
+export default function Project({image, title, description, github, deployed}) {
     return (
         <div>
             <img src={image} alt={title}/>
