@@ -5,17 +5,17 @@ export default function Footer() {
         <footer>
             <Icon 
                 link="https://github.com/itzelherndz"
-                image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/450px-GitHub_Invertocat_Logo.svg.png"
+                image="https://cdn-icons-png.flaticon.com/512/25/25231.png"
                 name="GitHub"
             />
             <Icon
                 link="https://www.linkedin.com/in/itzel-hdz-/"
-                image="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin-logo_61109&psig=AOvVaw0y7mWMdblvwf4mTe52xLgR&ust=1713660263350000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIDHyYrIz4UDFQAAAAAdAAAAABAI"
+                image="https://cdn-icons-png.flaticon.com/512/61/61109.png"
                 name="LinkedIn"
             />
             <Icon
                 link="https://www.upwork.com/freelancers/~017c72dd50453b7d2c"
-                image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Upwork-logo.svg/120px-Upwork-logo.svg.png?20200619221931"
+                image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZM19_D9b5NU2Kv-WSFZYjAblyfCJP1Ixtq3spTjjPmg&s"
                 name="Upwork"
             />
         </footer>
