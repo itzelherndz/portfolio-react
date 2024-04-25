@@ -4,7 +4,9 @@ export default function Navbar({ links }) {
         <div className="container-fluid">
           <div  id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
-              {links.map((link) => link)}
+            {links.map((link, index) => (
+                    <li key={index} className="nav-item">{link}</li>
+                ))}
             </ul>
           </div>
         </div>
