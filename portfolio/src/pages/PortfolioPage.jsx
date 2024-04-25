@@ -4,7 +4,7 @@ export default function PortfolioPage() {
     return (
         <div>
             <h2>Portfolio</h2>
-            <div>
+            <div className="row">
                 <Project image="" title="Reel Report" github="https://github.com/BryceGitHuba/Movie_Picker" deployed="https://reel-report-8887d227dacc.herokuapp.com/"/>
                 <Project image="" title="Beat Tap" github="https://github.com/gabeharvey/beat-tap" deployed="https://gabeharvey.github.io/beat-tap/"/>
                 <Project image="" title="Tech Blog" github="https://github.com/itzelherndz/tech-blog" deployed="https://tech-blog-ih-455218ad555e.herokuapp.com/"/>
