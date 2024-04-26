@@ -9,13 +9,29 @@ body {
     background-color: var(--color-1);
 }
 
-h1 {
+h1,h2 {
     color:var(--color-3);
     font-weight:bold;
     padding: 0.5rem;
 }
 
-p {
-    font-size:x-large;
+a {
+    text-decoration: none;
+    color: var(--color-3);
+}
 
+a:hover {
+    font-weight:bold;
+    text-shadow: 0.5rem 0.5rem--color-2;
+}
+
+footer {
+    display:flex;
+    justify-content: center;
+    margin-top: 10rem;
+}
+
+footer img {
+    width: 100px;
+    height: auto;
 }
