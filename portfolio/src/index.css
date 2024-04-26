@@ -1,0 +1,21 @@
+:root {
+    --color-1: #ffefe8;
+    --color-2: #fccce3;
+    --color-3: #7c3758;
+    --color-4: #391f2b;
+}
+
+body {
+    background-color: var(--color-1);
+}
+
+h1 {
+    color:var(--color-3);
+    font-weight:bold;
+    padding: 0.5rem;
+}
+
+p {
+    font-size:x-large;
+
+}

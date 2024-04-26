@@ -1,1 +1,23 @@
+:root {
+    --color-1: #ffefe8;
+    --color-2: #fccce3;
+    --color-3: #7c3758;
+    --color-4: #391f2b;
+}
+
+.navbar li{
+    padding: 0.5rem;
+}
+
+.navbar a {
+    font-size: 1.5rem;
+    text-decoration: none;
+    color: var(--color-3);
+}
+
+.navbar a:hover {
+    font-weight:bold;
+    text-shadow: 0.5rem 0.5rem--color-2;
+}
+
 
