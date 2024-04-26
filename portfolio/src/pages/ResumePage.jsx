@@ -1,9 +1,11 @@
+import resume from '../assets/files/resume.pdf';
+
 export default function ResumePage() {
     return (
         <div>
             <div>
                 <h2>Resume</h2>
-                <a href="">Download</a>
+                <a href={resume}>Download</a>
             </div>
             <div>
                 <h2>Front-End Proficiencies</h2>
